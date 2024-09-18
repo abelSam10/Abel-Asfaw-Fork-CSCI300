@@ -4,3 +4,4 @@ djitellopy
 opencv-python
 brainflow
 PyQt5
+sortedcontainers
